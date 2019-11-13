@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color:yellow;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.clicked {
+    color: brown;
+}
